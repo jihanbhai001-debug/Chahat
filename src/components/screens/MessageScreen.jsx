@@ -39,9 +39,9 @@ export default function MessageScreen({ onNext }) {
 
                     <div className="text-gray-700 leading-relaxed whitespace-pre-wrap max-h-67 overflow-auto">
                         <p>
-                            I wanted to make something a little different for you, i dont knew why.
+                            I wanted to make something a little different for you, maaf kardo yaar galti ho gayi.
                             Thank you for the work. Thank you because after a long time i had a long converstion with someone.
-                            You are genuinely wonderful, pls peehu se baccha lena i beg.
+                            You are genuinely wonderful, pls peehu se baccha lena i beg. maaf karddo aaj ke bad maze nahi luga pink promise.
                         </p>
                     </div>
                     <motion.div
